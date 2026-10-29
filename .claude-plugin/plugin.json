@@ -1,0 +1,9 @@
+{
+  "name": "record-lens",
+  "version": "0.1.0",
+  "description": "/record <file> [baseline]: a fixed, spec-driven summary of a JSON run record (timings, spend, dispositions, counts, text leads) and a diff against a baseline record, so a verification never starts with ad-hoc scripts over a 20 MB file.",
+  "license": "MIT",
+  "author": {
+    "name": "William Harvey"
+  }
+}

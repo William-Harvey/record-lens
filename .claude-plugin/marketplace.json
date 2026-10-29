@@ -1,0 +1,12 @@
+{
+  "name": "record-lens",
+  "owner": {
+    "name": "William-Harvey"
+  },
+  "plugins": [
+    {
+      "name": "record-lens",
+      "source": "./"
+    }
+  ]
+}
