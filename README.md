@@ -1,4 +1,4 @@
-# record-lens
+# Record Lens
 
 A Claude Code plugin that summarises a JSON run record through a per-project spec, and diffs it against a baseline record. One command replaces the ad-hoc script a verification otherwise starts with.
 
